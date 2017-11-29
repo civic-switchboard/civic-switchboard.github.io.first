@@ -1,0 +1,58 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+}
+
+.hero > img {
+    display: none;
+    margin: auto;
+    width: 100%;
+}
+
+
+p:first-of-type {
+    margin-top: 6px;
+}
+
+.lead-in {
+    font-weight: 600;
+    font-size: 140%;
+}
+
+.about >p:first-of-type{
+    margin-top: 12px;
+}
+
+.section > p {
+    margin-left: 24px;
+}
+
+.team-name {
+    font-weight: 600;
+}
+
+@media (min-width: 992px){
+    .main {
+        margin: auto;
+        width: 800px;
+    }
+    .hero {
+        float: right;
+    }
+    .hero > img {
+        display: block;
+        margin: auto;
+        width: auto;
+        height: 200px;
+    }
+}
+
+h2 {
+    margin-bottom: 6px;
+}
+hr {
+    margin: 0 0 6px 0;
+}
