@@ -1,0 +1,37 @@
+# Site settings
+title: Civic Switchboard
+description: "Connecting Libraries and Community Information Networks"
+url: ""
+
+baseurl: ""
+
+
+# Build settings
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /updates/:title
+paginate: 5
+paginate_path: "/updates/page:num"
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
