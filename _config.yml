@@ -22,6 +22,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Plugins
 gems:
@@ -35,5 +39,3 @@ version: "1.0.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
-
-theme: jekyll-theme-minimal

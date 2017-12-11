@@ -30,7 +30,7 @@ body {
 
 /*- Link -*/
 a {
-  color: #333333;
+  color: #000000;
   text-decoration: none;
   font-weight: 700; }
   a:hover, a:focus {
@@ -277,7 +277,8 @@ blockquote {
   top: 35px;
   right: 25px;
   z-index: 10;
-  height: 24px; }
+  height: 24px;
+  background: rgh(1, 1, 1, 0.3); }
   @media (min-width: 940px) {
     #nav-menu {
       display: none; } }
@@ -350,7 +351,8 @@ blockquote {
     margin: 0 auto; }
   #header h1 {
     font-size: 2em;
-    padding-bottom: 0; }
+    padding-bottom: 0;
+    margin-right: 50px; }
     #header h1 span {
       color: rgba(0, 0, 0, 0.6);
       font-weight: 300; }
@@ -706,3 +708,6 @@ footer {
 
 /* Literal.Number.Integer.Long */
 /*- Custom style -*/
+.hero {
+  height: 10rem;
+  float: right; }
