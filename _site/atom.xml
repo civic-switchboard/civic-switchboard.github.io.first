@@ -4,7 +4,7 @@
  <title>Civic Switchboard</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-12-11T15:01:17-05:00</updated>
+ <updated>2017-12-11T16:23:37-05:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -14,12 +14,11 @@
  
 
  <entry>
-   <title>First blog post</title>
-   <link href="http://localhost:4000/updates/hello-world"/>
-   <id>http://localhost:4000/updates/hello-world</id>
-   <updated>2017-02-10T00:00:00-05:00</updated>
-   <content type="html">
-</content>
+   <title>Civic Switchboard Introductory Blogpost</title>
+   <link href="http://localhost:4000/updates/post_1"/>
+   <id>http://localhost:4000/updates/post_1</id>
+   <updated>2017-12-11T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Across the US and around the world, a growing number of public sector and nonprofit organizations have been sharing open data. In sharing data, these organizations hope to increase transparency, enhance governmental efficiency, improve communities, encourage public participation in government, and foster civic innovation and economic development. While there are...</content>
  </entry>
 
  
