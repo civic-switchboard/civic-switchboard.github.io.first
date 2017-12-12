@@ -48,7 +48,7 @@ body {
 /*- Link -*/
 a {
 	color: $text-dark-color;
-	text-decoration: none;
+	text-decoration: underline;
 	font-weight: 700;
 	&:hover,
 	&:focus {
