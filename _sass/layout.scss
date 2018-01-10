@@ -217,6 +217,10 @@ img[title="Monochrome"] {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+	
+    .img {
+        margin-bottom: 0px;
+    }	
 
     .caption {
         margin-top: 0.5em;
