@@ -210,6 +210,24 @@ img[title="Monochrome"] {
     box-shadow: 0 2px 6px #ddd;
   }
 
+/* adding an image block w/ caption to posts */
+
+.image-wrapper {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-style: italic;
+
+    img {
+        margin-bottom: 0px;
+    }	
+
+    .caption {
+        margin-top: 0.5em;
+    }
+}
+
 code {
   color: lighten($text-color, 35%);
   background-color: lighten($background-color, 35%);
