@@ -1,0 +1,62 @@
+---
+title: Civic Switchboard Las Vegas Workshop Teams
+description: Civic Switchboard Las Vegas Workshop Teams
+header: "Las Vegas Workshop Teams"
+---
+
+#### We are excited to announce the teams that will be participating in our [Las Vegas Workshop](https://civic-switchboard.github.io/updates/post_7)!
+  
+This workshop will bring together eleven egional teams of two to catalyze partnerships of libraries and civic data intermediaries, with each team including one library partner and one non-library civic data intermediary. Teams will learn to incubate new local data partnerships, get a better handle on their own civic data ecosystems, and learn from innovative peers across the country.     
+
+Sign up for our [mailing list](https://civicswitchboard.us17.list-manage.com/subscribe?u=530c4fdb234145e8e1e6b5307&id=3ae069cc9d), send us an [email](mailto:civic-switchboard@pitt.edu) or find us on [twitter](https://twitter.com/civicswitch) to stay up to date with Civic Switchboard goings on! 
+
+---
+
+### Alaska
+- Alaska State Library  
+- Alaska Office of Management and Budget*
+
+### Everett, WA
+- Everett Public Library
+- City of Everett IT 
+
+### Finger Lakes region of New York
+- Pioneer Library System
+- Substance Abuse Prevention Coalition of Ontario County
+
+### Houston, TX
+- Rice University Fondren Library  
+- Rice University's Kinder Institute for Urban Research*
+
+### Indianapolis, IN
+- Indianapolis Public Library
+- The Polis Center
+
+### Las Vegas, NV 
+- University of Nevada  
+- City of Las Vegas  
+
+### Oakland, CA  
+- Oakland Public Library
+- Open Oakland*
+
+### Saint Paul, MN
+- Saint Paul Public Library
+- Office of Technology and Communications
+
+### San Mateo County, CA
+- Stanford University Library
+- County of San Mateo*
+
+### Southern and Central Maine
+- Colby College Libraries 
+- Data Innovation Project, Cutler Institute of Health and Social Policy, University of Southern Maine 
+
+### Tucson, AZ
+- University of Arizona
+- City of Tucson, GIS Dept.*
+
+
+---  
+
+*Selected to act as a cross pollinator and attend the [Digital Library Forum (DLF)](https://forum2018.diglib.org/) meeting following the workshop.
